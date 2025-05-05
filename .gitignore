@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.env.*
+
+# Virtual env
+.venv/
+venv/
+
+# SQLite database
+*.db
+
+# Streamlit
+.streamlit/
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
